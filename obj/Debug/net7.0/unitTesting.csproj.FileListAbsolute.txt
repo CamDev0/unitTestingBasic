@@ -1,0 +1,15 @@
+C:\Proyectos\C# .NET\unitTesting\bin\Debug\net7.0\unitTesting.exe
+C:\Proyectos\C# .NET\unitTesting\bin\Debug\net7.0\unitTesting.deps.json
+C:\Proyectos\C# .NET\unitTesting\bin\Debug\net7.0\unitTesting.runtimeconfig.json
+C:\Proyectos\C# .NET\unitTesting\bin\Debug\net7.0\unitTesting.dll
+C:\Proyectos\C# .NET\unitTesting\bin\Debug\net7.0\unitTesting.pdb
+C:\Proyectos\C# .NET\unitTesting\obj\Debug\net7.0\unitTesting.csproj.AssemblyReference.cache
+C:\Proyectos\C# .NET\unitTesting\obj\Debug\net7.0\unitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\C# .NET\unitTesting\obj\Debug\net7.0\unitTesting.AssemblyInfoInputs.cache
+C:\Proyectos\C# .NET\unitTesting\obj\Debug\net7.0\unitTesting.AssemblyInfo.cs
+C:\Proyectos\C# .NET\unitTesting\obj\Debug\net7.0\unitTesting.csproj.CoreCompileInputs.cache
+C:\Proyectos\C# .NET\unitTesting\obj\Debug\net7.0\unitTesting.dll
+C:\Proyectos\C# .NET\unitTesting\obj\Debug\net7.0\refint\unitTesting.dll
+C:\Proyectos\C# .NET\unitTesting\obj\Debug\net7.0\unitTesting.pdb
+C:\Proyectos\C# .NET\unitTesting\obj\Debug\net7.0\unitTesting.genruntimeconfig.cache
+C:\Proyectos\C# .NET\unitTesting\obj\Debug\net7.0\ref\unitTesting.dll
