@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\C# .NET\\unitTesting\\unitTesting.csproj": {}
+    "C:\\Proyectos\\C# .NET\\unitTesting\\testing_NoFramework\\unitTesting.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\C# .NET\\unitTesting\\unitTesting.csproj": {
+    "C:\\Proyectos\\C# .NET\\unitTesting\\testing_NoFramework\\unitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\C# .NET\\unitTesting\\unitTesting.csproj",
+        "projectUniqueName": "C:\\Proyectos\\C# .NET\\unitTesting\\testing_NoFramework\\unitTesting.csproj",
         "projectName": "unitTesting",
-        "projectPath": "C:\\Proyectos\\C# .NET\\unitTesting\\unitTesting.csproj",
+        "projectPath": "C:\\Proyectos\\C# .NET\\unitTesting\\testing_NoFramework\\unitTesting.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\C# .NET\\unitTesting\\obj\\",
+        "outputPath": "C:\\Proyectos\\C# .NET\\unitTesting\\testing_NoFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
